@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+ figcaption {
+  text-align: center;
+  font-size: smaller;
+ }
+
+ nav a{
+  text-align: cneter;
+  padding: 10px;
+  background-color: rgb(128,120,128);
+ }
+
+ #featured-property > p{
+  text-align: center;
+  width: 800px;
+ }
